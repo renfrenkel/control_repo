@@ -1,3 +1,3 @@
-# control_repo
+# Learning Puppet
 
-This is a change
+This is an environment for me to learn puppet =)
